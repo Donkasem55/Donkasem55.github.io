@@ -1,0 +1,11 @@
+body {
+    color: #FFFFFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading {
+    background-color: #1f1f1f;
+    text-align: left;
+    font-size: 20px;
+    font-family: Verdana, ui-rounded;
+}
