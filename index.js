@@ -7,3 +7,8 @@ function toggleVisibility() {
     }
 }
 
+function hide() {
+    const x = document.querySelector(".find");
+    x.style.display = "none";
+}
+
