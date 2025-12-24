@@ -87,7 +87,7 @@ body {
     padding-right: 10px;
     width: calc(100vw - 60px);
     height: auto;
-    min-height: calc(100vh - 75px);
+    min-height: 100vh;
     margin: 0;
 }
 
