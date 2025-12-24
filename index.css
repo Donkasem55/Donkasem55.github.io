@@ -66,8 +66,25 @@ body {
     height: 100%;
 }
 
+.findContent {
+    background-color: #111111;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 0;
+    color: white;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 1;
+    text-align: center;
+    text-decoration: none;
+}
+
 .home {
     padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .nav {
@@ -92,5 +109,11 @@ body {
 }
 
 .active {
+    background-color: #1c1c1c;
+}
 
+.white {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
 }
