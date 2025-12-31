@@ -121,3 +121,16 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
 }
+
+.center {
+    text-align: center;
+}
+
+.big {
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+.head2 {
+    margin-top: 10px;
+}
