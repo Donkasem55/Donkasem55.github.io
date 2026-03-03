@@ -15,14 +15,15 @@ body {
     position: fixed;
     width: calc(100vw - 31px);
     margin: 0;
-    background-color: #1f1f1f;
+    background-color: #ffffff;
     font-size: 10px;
     font-family: Verdana, ui-rounded;
     padding-top: 10px;
     padding-bottom: 10px;
     overflow: hidden;
     border-radius: 10px;
-    opacity: 0.7;
+    opacity: 0.05;
+    -webkit-backdrop-filter: blur(12px);
 }
 
 .headText {
