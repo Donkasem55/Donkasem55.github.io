@@ -30,15 +30,19 @@ body {
 }
 
 .heading a {
-    color: rgba(255, 255, 255);
+    color: rgba(255, 255, 255, 0.7);
     text-decoration: none;
     opacity: 1.0;
     font-weight: 500;
+    text-align: center;
 }
 
 .headText {
     text-align: center;
     margin: 0;
+    color: rgba(255, 255, 255, 0.7);
+    opacity: 0.7;
+    font-weight: 500
 }
 
 .find {
