@@ -29,6 +29,13 @@ body {
     -webkit-backdrop-filter: blur(12px);
 }
 
+.heading a {
+    color: rgba(255, 255, 255);
+    text-decoration: none;
+    opacity: 1.0;
+    font-weight: 500;
+}
+
 .headText {
     text-align: center;
     margin: 0;
